@@ -1,1 +1,1 @@
-# WSB 50-to-1mil bot
+# WSB 15-to-1mill bot
